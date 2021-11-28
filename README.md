@@ -1,4 +1,6 @@
 # Teach-and-Learn
+**Link for deployed app== https://tandl.herokuapp.com/**
+
 Teach & Learn is a platform to ask your question and answer other's question.
 
 Steps to run this on your desktop:
